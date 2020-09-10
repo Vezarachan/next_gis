@@ -1,0 +1,4 @@
+/Users/louxiayin/ClionProjects/next_gis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/louxiayin/ClionProjects/next_gis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/louxiayin/ClionProjects/next_gis/cmake-build-debug/CMakeFiles/next_gis.dir
+/Users/louxiayin/ClionProjects/next_gis/cmake-build-debug/CMakeFiles/imgui.dir
